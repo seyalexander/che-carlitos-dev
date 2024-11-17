@@ -1516,13 +1516,16 @@ form button {
 .opening .opening-content {
   padding-top: 67px;
 }
+.opening .opening-content h3 {
+  color: #93432A;
+}
 .opening .opening-content ul li {
   font-size: 17px;
   margin-bottom: 8px;
   letter-spacing: 0.55px;
 }
 .opening .opening-content ul li span {
-  color: #0e1927;
+  color: #421D0A;
 }
 .opening .opening-content .d-flex {
   margin-top: 38px;
