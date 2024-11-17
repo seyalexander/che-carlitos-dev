@@ -1676,6 +1676,7 @@ form button {
 .s-menu .flat-tabs .menu-tab li.active::after {
   width: 100%;
 }
+
 .s-menu .flat-tabs .content-tab .menu-list {
   max-width: 565px;
   margin: 0 auto;
@@ -2658,7 +2659,9 @@ form button {
 .booking .tf-button.style1:hover {
   color: #fff;
 }
-
+.booking .container .booking-form a {
+  background-color: transparent;
+}
 .block-text.style-2 .subtitle {
   color: #e6c9a2;
 }
@@ -2995,7 +2998,9 @@ form button {
 }
 .location .content .title {
   margin-bottom: 10px;
+  color: #421D0A;
 }
+
 .location .content .text {
   margin-bottom: 35px;
 }
@@ -10469,8 +10474,7 @@ img.mfp-img {
   .block-text .subtitle {
     font-size: 13px;
   }
-
-
+  
   .gallery-box {
     width: 100%;
   }
@@ -10484,6 +10488,7 @@ img.mfp-img {
     flex-wrap: wrap;
     margin-top: 40px;
   }
+
   .home-2 .s-menu .flat-tabs .menu-tab {
     width: 100%;
   }
