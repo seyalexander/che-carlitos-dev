@@ -2336,6 +2336,10 @@ form button {
 }
 .choose .choose-content .block-text .subtitle {
   margin-bottom: 23px;
+  color: #93432A;
+}
+.choose .choose-content .block-text .title {
+  color: #93432A;
 }
 .choose .choose-content .flat-tabs {
   margin-top: 55px;
@@ -2356,7 +2360,7 @@ form button {
   bottom: 4px;
   width: 0;
   height: 1px;
-  background: #0e1927;
+  background: #421D0A;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -2366,12 +2370,12 @@ form button {
 .choose .choose-content .flat-tabs .menu-tab li h5 {
   font-size: 17px;
   text-transform: uppercase;
-  color: #a5a5a5;
+  color: #421D0A;
   font-weight: 700;
   letter-spacing: 0.8px;
 }
 .choose .choose-content .flat-tabs .menu-tab li.active h5 {
-  color: #0e1927;
+  color: #421D0A;
 }
 .choose .choose-content .flat-tabs .menu-tab li.active::after {
   width: 100%;
@@ -2381,6 +2385,9 @@ form button {
 }
 .choose .choose-content .flat-tabs .content-tab p {
   letter-spacing: 0.15px;
+}
+.choose .choose-content .flat-tabs .content-tab ul li {
+  color: #421D0A;
 }
 .choose .choose-image {
   width: 676px;
@@ -3016,7 +3023,7 @@ form button {
   object-fit: cover;
 }
 .gallery-box .content {
-  background: #0e1927;
+  background: #421D0A;
   position: absolute;
   top: 40px;
   left: 25px;
